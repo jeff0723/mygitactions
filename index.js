@@ -1,5 +1,9 @@
-const name = "Jeffrey"
-function  test(){
+const name = "Jeffrey";
 
-  console.log("this is a github actions");
+function  test(){
+  
+  console.log("this is a github actions" + name);
+  
 }
+
+test();
