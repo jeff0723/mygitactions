@@ -1,5 +1,5 @@
 const name = "Jeffrey"
-function(){
+function  test(){
 
   console.log("this is a github actions");
 }
